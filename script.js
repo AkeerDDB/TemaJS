@@ -46,4 +46,6 @@ let nume = prompt('Enter your name:');
 
 if (nume.length > 15) {
   console.log('Too long');
-} else console.log('Ok');
+} else {
+  console.log('ok');
+}
